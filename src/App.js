@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          Swamy
+          Swamy valeti
         </a>
       </header>
     </div>
